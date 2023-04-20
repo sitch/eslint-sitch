@@ -1,0 +1,2 @@
+# eslint-sitch
+Eslint configuration
